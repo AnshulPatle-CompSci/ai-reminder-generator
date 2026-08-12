@@ -1,5 +1,10 @@
 # AI Reminder Starter Kit
 
+for Interview to france based startup -trackinity through connection via himanshu --> bharat --> vishal zhade America --> Tausif Siddiqui --> 
+bright akpah --> AI developer with remote IoT support (JD provided) 
+
+for tech Round gave this project to make during 16-25June2025
+ 
 ## Description
 This is a basic full-stack setup to create reminders using AI (OpenAI GPT-4). Users can input a sentence and get a fully pre-filled reminder form.
 
